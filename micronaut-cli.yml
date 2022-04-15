@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.exemplar
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, jackson-databind, java, junit, logback, lombok, maven, picocli, picocli-java-application, picocli-junit, reactor, readme, shade, yaml]
